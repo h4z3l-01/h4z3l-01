@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./banner1.gif" width="550">
+  <img src="./banner.gif" width="550">
 </div>
 
 # Zer00
